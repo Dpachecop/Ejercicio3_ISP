@@ -6,7 +6,7 @@ import Ejercicio3_ISP.implementar.Carro;
 import Ejercicio3_ISP.implementar.Montacargas;
 
 
-public class Main {
+public class Main_3 {
     public static void main(String[] args) {
         
         Conducible carro = new Carro();
